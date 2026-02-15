@@ -1,0 +1,4 @@
+OpenCV
+YOLO
+Numpy
+Winsound
